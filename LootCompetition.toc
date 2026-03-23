@@ -3,7 +3,7 @@
 ## Version: 1.0
 ## Title: Loot Competition
 ## Notes: Shows tier competition in raid group listings.
-## IconTexture: Interface/Icons/inv_shoulder_22.blp
+## IconTexture: Interface/Icons/Inv_misc_coinbag_special.blp
 
 ## Category: Loot
 ## Category-deDE: Beute
